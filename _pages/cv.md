@@ -12,6 +12,8 @@ redirect_from:
 Education
 ======
 * B.S. in School of Telecommunication Engineering, Xidian University, Sep 2020 ~ present
+Weighted average score in major courses: 90.4   GPA: 3.9 / 4.0
+CET6: 570   CET4: 569   IELTS: preparing
 
 Project experience
 ======
