@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiao Yang's homepage"
+title: "Home"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I'm delighted to have you here. 
+Hello! Welcome to my homepage! I'm delighted to have you here. I'm Xiao Yang. I will graduate in June next year with a bachelor's degree from Xidian University. Currently I'm seeking a Ph.D. position focused on AI and wireless communications.
 
 A data-driven personal website
 ======
