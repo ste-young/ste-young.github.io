@@ -34,7 +34,7 @@ Project experience
   * Contributions:
      1. Manually extracted MFCC and Mel spectrogram features from heart and lung sounds, classify using machine learning classifier.
      2.  Transformed raw data into Mel spectrograms, curated dataset, and employed a pre-trained VGG-16 model for accurate classification.
-  * : Integrate heart and lung sounds with CT imaging to achieve signal complementarity, enhancing  diagnostic capabilities and providing a comprehensive understanding of cardiovascular and respiratory health. 
+  * Future development: Integrate heart and lung sounds with CT imaging to achieve signal complementarity, enhancing  diagnostic capabilities and providing a comprehensive understanding of cardiovascular and respiratory health. 
   
 * Mar 2023 ~ Jun 2023: Visual Media Communications
    * course desin
