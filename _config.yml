@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xiao Yang"
-  avatar           : "picture.jpg"
+  avatar           : "images/picture.jpg"
   bio              : "Looking for a Ph.D. position in AI and wireless networking"
   location         : "Xi'an, China"
   employer         :
