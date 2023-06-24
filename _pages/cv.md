@@ -34,13 +34,19 @@ Project experience
   * Contributions:
      1. Manually extracted MFCC and Mel spectrogram features from heart and lung sounds, classify using machine learning classifier.
      2.  Transformed raw data into Mel spectrograms, curated dataset, and employed a pre-trained VGG-16 model for accurate classification.
-  * Future development: Integrate heart and lung sounds with CT imaging to achieve signal complementarity, enhancing  diagnostic capabilities and providing a comprehensive understanding of cardiovascular and respiratory health. 
-
-
+  * : Integrate heart and lung sounds with CT imaging to achieve signal complementarity, enhancing  diagnostic capabilities and providing a comprehensive understanding of cardiovascular and respiratory health. 
   
+* Mar 2023 ~ Jun 2023: Visual Media Communications
+   * course desin
+   * Contributions:
+     1. Reimplemented classic JPEG image compression algorithm, achieving efficient image compression using C++ programming and various techniques.
+     2. Implemented an image codec using ffmpeg with H.265 (HEVC) compression.
+     3. Implemented network transmission of compressed video using TCP and UDP protocols.
+
+
 Awards
 ======
-* Skill 1
+* Chinese Collegiate Computing Competition: Advancing to the National Competition
 * Skill 2
 * Skill 3
 
