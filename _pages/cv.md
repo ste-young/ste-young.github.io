@@ -46,9 +46,10 @@ Project experience
 
 Awards
 ======
-* Chinese Collegiate Computing Competition: Advancing to the National Competition
-* Skill 2
-* Skill 3
-
+* <font face="Chinese Collegiate Computing Competition">微软雅黑</font>: Advancing to the National Competition
+* <font face="Social Scholarship from OurPalm">微软雅黑</font>
+* <font face="The 14th Mathematics Competition of Chinese College Students">微软雅黑</font>: First prize of Shaanxi Province
+* <font face="The 24th National Collegiate Robotics and Artificial Intelligence Competition">微软雅黑</font>: First prize of Shaanxi Province
+* <font face="Outstanding Students & First-class Scholarship">微软雅黑</font>
 
 
