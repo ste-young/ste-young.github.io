@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[My resume](http://ste-young.github.io/files/Xiao Yang.pdf)
+
 Education
 ======
 * B.S. in School of Telecommunication Engineering, Xidian University, Sep 2020 ~ present
