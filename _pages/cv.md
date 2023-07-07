@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in School of Telecommunication Engineering, Xidian University, Sep 2020 ~ present
 
-  * Weighted average score in major courses: 90.4   GPA: 3.9 / 4.0
+  * Weighted average score in major courses: 90.43   GPA: 3.9 / 4.0
 
   * CET6: 570   CET4: 569   IELTS: preparing
 
@@ -31,11 +31,13 @@ Project experience
 
   
 * Mar 2023 ~ Jun 2023: Visual Media Communications
-   * course desin
+   * course design
 
 
 Awards
 ======
+* <font face="微软雅黑">The 9th China College Students "Internet +" Innovation and Entrepreneurship Competition: Advancing to the provincial competition</font>
+* <font face="微软雅黑">The 13th Higher Mathematics Competition for College Students in Shaanxi Universities: Second prize</font>
 * <font face="微软雅黑">Chinese Collegiate Computing Competition: Advancing to the National Competition</font>
 * <font face="微软雅黑">Social Scholarship from OurPalm</font>
 * <font face="微软雅黑">The 14th Mathematics Competition of Chinese College Students: First prize of Shaanxi Province</font>
