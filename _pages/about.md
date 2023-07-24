@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my homepage! I'm delighted to have you here. I'm Xiao Yang. I will graduate in June 2024 with a bachelor's degree from Xidian University. Currently I'm seeking a Ph.D. position in 2024 fall.
+Hello there! Welcome to my homepage! I'm thrilled to have you visit. My name is Xiao Yang, and I'm a student currently pursuing a bachelor's degree at Xidian University, set to graduate in June 2024.
+
+With a passion for furthering my academic journey, I am eagerly looking forward to the next step in my education. My aspiration is to secure a Ph.D. position for the fall of 2024, where I can delve deeper into my chosen field of study and make meaningful contributions to the world of research and knowledge.
 
 [My transcript](http://ste-young.github.io/files/transcript.pdf) (up to 24th June, 2023)
 
