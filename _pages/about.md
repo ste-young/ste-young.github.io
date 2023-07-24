@@ -12,7 +12,6 @@ Hello there! Welcome to my homepage! I'm thrilled to have you visit. My name is 
 
 With a passion for furthering my academic journey, I am eagerly looking forward to the next step in my education. My aspiration is to secure a Ph.D. position for the fall of 2024, where I can delve deeper into my chosen field of study and make meaningful contributions to the world of research and knowledge.
 
-[My transcript](http://ste-young.github.io/files/transcript.pdf) (up to 24th June, 2023)
 
 
 
