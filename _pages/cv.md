@@ -9,15 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-[My resume](http://ste-young.github.io/files/Xiao Yang.pdf)
+[[My resume](http://ste-young.github.io/files/Xiao Yang.pdf)]
 
 Education
 ======
 * B.S. in School of Telecommunication Engineering, Xidian University, Sep 2020 ~ present
 
-  * Weighted average score in major courses: 90.43   GPA: 3.9 / 4.0
+  * Weighted average score in major courses: 90.21    Weighted average score: 89
 
-  * CET6: 570   CET4: 569   IELTS: preparing
+  * GPA: 3.9 / 4.0   CET6: 570   CET4: 569   IELTS: preparing
 
 Project experience
 ======
