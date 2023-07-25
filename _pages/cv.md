@@ -19,6 +19,8 @@ Education
 
   * GPA: 3.9 / 4.0  &ensp;  CET6: 570  &ensp;   IELTS: preparing
 
+  * [Transcript](http://ste-young.github.io/files/transcript.pdf)
+
 Project experience
 ======
 * Sep 2022 ~ prensent: Knowledge-driven Wireless Source Allocation
