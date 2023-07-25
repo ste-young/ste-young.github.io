@@ -29,7 +29,7 @@ Project experience
 
 * 2021.12 ~ 2023.05: Intelligent Auscultation System
   * Innovation training program, leader
-  * Cooperated with the First Affiliated of Xi’an Jiaotong University (from May 2023)
+  * Cooperated with the First Affiliated of Xi’an Jiaotong University (from 2023.05)
 
   
 * 2023.03 ~ 2023.06: Visual Media Communications
