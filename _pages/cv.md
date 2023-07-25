@@ -48,7 +48,7 @@ Awards
 
 Services
 ======
-* Executive chairman of the youth league committee of the school of telecommunication engineering (from Sep 2022).
+* Executive chairman of the youth league committee of the school of telecommunication engineering (Sep 2022 ~ Jun 2023).
 * Epidemic volunteer (Jan 2022).
 
 
