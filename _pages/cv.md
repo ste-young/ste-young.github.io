@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in School of Telecommunication Engineering, Xidian University, Sep 2020 ~ present
+* B.S. in School of Telecommunication Engineering, Xidian University &ensp; 2020.09 ~ present
 
   * Weighted average score in major courses: 90.21  &ensp;  Weighted average score: 89
 
@@ -23,16 +23,16 @@ Education
 
 Project experience
 ======
-* Sep 2022 ~ prensent: Knowledge-driven Wireless Source Allocation
+* 2022.09 ~ prensent: Knowledge-driven Wireless Source Allocation
   * UNIC lab, Xidian University
   * Supervisor: Ruijin Sun and Nan Cheng
 
-* Dec 2021 ~ May 2023: Intelligent Auscultation System
+* 2021.12 ~ 2023.05: Intelligent Auscultation System
   * Innovation training program, leader
   * Cooperated with the First Affiliated of Xi’an Jiaotong University (from May 2023)
 
   
-* Mar 2023 ~ Jun 2023: Visual Media Communications
+* 2023.03 ~ 2023.06: Visual Media Communications
    * course design
 
 
@@ -48,7 +48,7 @@ Awards
 
 Services
 ======
-* Executive chairman of the youth league committee of the school of telecommunication engineering (Sep 2022 ~ Jun 2023).
-* Epidemic volunteer (Jan 2022).
+* Executive chairman of the youth league committee of the school of telecommunication engineering (2022.09 ~ 2023.06).
+* Epidemic volunteer (2022.01).
 
 
