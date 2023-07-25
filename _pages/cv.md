@@ -41,7 +41,7 @@ Awards
 * <font face="微软雅黑">The 9th China College Students "Internet +" Innovation and Entrepreneurship Competition: Advancing to the provincial competition</font>
 * <font face="微软雅黑">The 13th Higher Mathematics Competition for College Students in Shaanxi Universities: Second prize</font>
 * <font face="微软雅黑">Chinese Collegiate Computing Competition: Advancing to the National Competition</font>
-* <font face="微软雅黑">Social Scholarship from OurPalm</font>
+* <font face="微软雅黑">Social Scholarship from OurPalm (only 5 candidates)</font>
 * <font face="微软雅黑">The 14th Mathematics Competition of Chinese College Students: First prize of Shaanxi Province</font>
 * <font face="微软雅黑">The 24th National Collegiate Robotics and Artificial Intelligence Competition: First prize of Shaanxi Province</font>
 * <font face="微软雅黑">Outstanding Students & First-class Scholarship</font>
