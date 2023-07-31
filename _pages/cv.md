@@ -26,7 +26,7 @@ Project experience
 * 2022.09 ~ prensent: Knowledge-driven Wireless Source Allocation
   * UNIC lab, Xidian University
   * Supervisor: Ruijin Sun and Nan Cheng
-  * The first edition of the paper has been completed, and the paper is planned to be submitted to [VTC 2023 Fall](https://events.vtsociety.org/vtc2023-fall/)
+  * [VTC 2023 Fall](https://events.vtsociety.org/vtc2023-fall/) (summited)
 
 * 2021.12 ~ 2023.05: Intelligent Auscultation System
   * Innovation training program, leader
