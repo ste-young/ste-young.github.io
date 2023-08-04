@@ -17,7 +17,7 @@ Education
 
   * Weighted average score in major courses: 90.21  &ensp;  Weighted average score: 89
 
-  * GPA: 3.9 / 4.0  &ensp;  CET6: 570  &ensp;   IELTS: waiting
+  * GPA: 3.9 / 4.0  &ensp;  CET6: 570  &ensp;   IELTS: 6.5
 
   * [Transcript](http://ste-young.github.io/files/transcript.pdf)
 
