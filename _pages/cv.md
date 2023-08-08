@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[[Curriculum Vitae](http://ste-young.github.io/files/Xiao Yang.pdf)]
+[[Curriculum Vitae](http://ste-young.github.io/files/CV.pdf)]
 
 Education
 ======
