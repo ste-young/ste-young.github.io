@@ -39,7 +39,7 @@ Project experience
 
 Awards
 ======
-* <font face="微软雅黑" size=2>The 9th Shaanxi Province College Students "Internet +" Innovation and Entrepreneurship Competition: Silver award</font>
+* <font face="微软雅黑" size=3>The 9th Shaanxi Province College Students "Internet +" Innovation and Entrepreneurship Competition: Silver award</font>
 * <font face="微软雅黑">The 13th Higher Mathematics Competition for College Students in Shaanxi Universities: Second prize</font>
 * <font face="微软雅黑">Chinese Collegiate Computing Competition: Advancing to the National Competition</font>
 * <font face="微软雅黑">Social Scholarship from OurPalm (only 5 candidates)</font>
