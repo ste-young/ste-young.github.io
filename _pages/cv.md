@@ -50,8 +50,8 @@ Awards
 
 Services
 ======
-* Executive chairman of the youth league committee of the school of telecommunication engineering (2022.09 ~ 2023.06).
-* Epidemic volunteer (2022.01).
-* Student teaching assistants ( Advanced Mathematics A(Ⅱ), Functions of Complex Variables, Communication Electronics System Design Practice ).
+* <font size=3>Executive chairman of the youth league committee of the school of telecommunication engineering (2022.09 ~ 2023.06)</font>
+* <font size=3>Epidemic volunteer (2022.01)</font>
+* <font size=3>Student teaching assistants ( Advanced Mathematics A(Ⅱ), Functions of Complex Variables, Communication Electronics System Design Practice )</font>
 
 
