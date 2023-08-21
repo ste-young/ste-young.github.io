@@ -12,29 +12,29 @@ redirect_from:
 [[Curriculum Vitae](http://ste-young.github.io/files/CV.pdf)]
 
 Education
-======
-* B.S. in School of Telecommunication Engineering, Xidian University &ensp; 2020.09 ~ present
+======</font>
+* <font size=3>B.S. in School of Telecommunication Engineering, Xidian University &ensp; 2020.09 ~ present</font>
 
-  * Weighted average score in major courses: 90.21  &ensp;  Weighted average score: 89
+  * <font size=3>Weighted average score in major courses: 90.21  &ensp;  Weighted average score: 89</font>
 
-  * GPA: 3.9 / 4.0  &ensp;  IELTS: 6.5([Detail](http://ste-young.github.io/files/IELTS.pdf))  
+  * <font size=3>GPA: 3.9 / 4.0  &ensp;  IELTS: 6.5([Detail](http://ste-young.github.io/files/IELTS.pdf))</font>  
 
-  * [Transcript](http://ste-young.github.io/files/transcript.pdf)
+  * <font size=3>[Transcript](http://ste-young.github.io/files/transcript.pdf)</font>
 
 Project experience
 ======
-* 2022.09 ~ prensent: Knowledge-driven Wireless Source Allocation
-  * UNIC lab, Xidian University
-  * Supervisor: Nan Cheng and Ruijin Sun
-  * [PDF](https://arxiv.org/abs/2308.02603) (having been summited to VTC 2023 fall)
+* <font size=3>2022.09 ~ prensent: Knowledge-driven Wireless Source Allocation</font>
+  * <font size=3>UNIC lab, Xidian University</font>
+  * <font size=3>Supervisor: Nan Cheng and Ruijin Sun</font>
+  * <font size=3>[PDF](https://arxiv.org/abs/2308.02603) (having been summited to VTC 2023 fall)</font>
 
-* 2021.12 ~ 2023.05: Intelligent Auscultation System
-  * Innovation training program, leader
-  * Cooperated with the First Affiliated of Xi’an Jiaotong University (from 2023.05)
+* <font size=3>2021.12 ~ 2023.05: Intelligent Auscultation System</font>
+  * <font size=3>Innovation training program, leader</font>
+  * <font size=3>Cooperated with the First Affiliated of Xi’an Jiaotong University (from 2023.05)</font>
 
   
-* 2023.03 ~ 2023.06: Visual Media Communications
-   * course design
+* <font size=3>2023.03 ~ 2023.06: Visual Media Communications</font>
+   * <font size=3>course design</font>
 
 
 Awards
