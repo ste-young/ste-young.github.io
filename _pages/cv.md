@@ -19,14 +19,14 @@ Education
 
   * <font size=3>GPA: 3.9 / 4.0  &ensp;  IELTS: 6.5([Detail](http://ste-young.github.io/files/IELTS.pdf)) </font>  
 
-  * <font size=3>[Transcript](http://ste-young.github.io/files/transcript.pdf) </font>
+  * <font size=3> [Transcript](http://ste-young.github.io/files/transcript.pdf) </font>
 
 Project experience
 ======
 * <font size=3>2022.09 ~ prensent: Knowledge-driven Wireless Source Allocation</font>
   * <font size=3>UNIC lab, Xidian University</font>
   * <font size=3>Supervisor: Nan Cheng and Ruijin Sun</font>
-  * <font size=3>[PDF](https://arxiv.org/abs/2308.02603) (having been summited to VTC 2023 fall)</font>
+  * <font size=3> [PDF](https://arxiv.org/abs/2308.02603) (having been summited to VTC 2023 fall) </font>
 
 * <font size=3>2021.12 ~ 2023.05: Intelligent Auscultation System</font>
   * <font size=3>Innovation training program, leader</font>
