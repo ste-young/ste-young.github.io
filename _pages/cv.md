@@ -12,12 +12,12 @@ redirect_from:
 [[Curriculum Vitae](http://ste-young.github.io/files/CV.pdf)]
 
 Education
-======</font>
+======
 * <font size=3>B.S. in School of Telecommunication Engineering, Xidian University &ensp; 2020.09 ~ present</font>
 
   * <font size=3>Weighted average score in major courses: 90.21  &ensp;  Weighted average score: 89</font>
 
-  * <font size=3>GPA: 3.9 / 4.0  &ensp;  IELTS: 6.5([Detail](http://ste-young.github.io/files/IELTS.pdf))</font>  
+  * <font size=3>GPA: 3.9 / 4.0  &ensp;  IELTS: 6.5([Detail](http://ste-young.github.io/files/IELTS.pdf)) </font>  
 
   * <font size=3>[Transcript](http://ste-young.github.io/files/transcript.pdf)</font>
 
