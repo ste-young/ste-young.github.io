@@ -6,6 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+#Google Analytics
+google_analytics: G-H3Q417JWD5  # your google analytics
+
+
 locale                   : "en-US"
 title                    : "Xiao Yang"
 title_separator          : "-"
