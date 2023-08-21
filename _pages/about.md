@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! Welcome to my homepage! I am Xiao Yang, majoring in telecommunication engineering, and I will be completing my bachelor's degree in June 2024. Currently, I am actively seeking a Ph.D. position.
+<font face="微软雅黑" size=3>Hello there! Welcome to my homepage! I am Xiao Yang, majoring in telecommunication engineering, and I will be completing my bachelor's degree in June 2024. Currently, I am actively seeking a Ph.D. position.</font>
 
 
 
