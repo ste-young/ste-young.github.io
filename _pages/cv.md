@@ -19,7 +19,7 @@ Education
 
   * <font size=3>GPA: 3.9 / 4.0  &ensp;  IELTS: 6.5([Detail](http://ste-young.github.io/files/IELTS.pdf)) </font>  
 
-  * <font size=3>[Transcript](http://ste-young.github.io/files/transcript.pdf)</font>
+  * <font size=3>[Transcript](http://ste-young.github.io/files/transcript.pdf) </font>
 
 Project experience
 ======
