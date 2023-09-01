@@ -26,7 +26,7 @@ Project experience
 * <font size=3>2022.09 ~ prensent: Knowledge-driven Wireless Source Allocation</font>
   * <font size=3>UNIC lab, Xidian University</font>
   * <font size=3>Supervisor: Nan Cheng and Ruijin Sun</font>
-  * [PDF](https://arxiv.org/abs/2308.02603) <font size=3>(having been summited to VTC 2023 fall) </font>
+  * [PDF](https://arxiv.org/abs/2308.02603) <font size=3>(VTC 2023 fall accepted) </font>
 
 * <font size=3>2021.12 ~ 2023.05: Intelligent Auscultation System</font>
   * <font size=3>Innovation training program, leader</font>
