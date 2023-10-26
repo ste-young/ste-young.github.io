@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[[Curriculum Vitae](http://ste-young.github.io/files/CV.pdf)]
-
 Project experience
 ======
 * <font size=3>2022.09 ~ prensent: Knowledge-driven Wireless Source Allocation</font>
@@ -27,10 +25,5 @@ Project experience
    * <font size=3>course design</font>
 
 
-Services
-======
-* <font size=3>Executive chairman of the youth league committee of the school of telecommunication engineering (2022.09 ~ 2023.06)</font>
-* <font size=3>Epidemic volunteer (2022.01)</font>
-* <font size=3>Student teaching assistants ( Advanced Mathematics A(Ⅱ), Functions of Complex Variables, Communication Electronics System Design Practice )</font>
 
 
