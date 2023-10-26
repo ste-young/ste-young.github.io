@@ -21,7 +21,7 @@ Education
   * <font size=3>GPA: 3.9 / 4.0  &ensp;  IELTS: 6.5
 
 
-Awardsa
+Awards
 ======
 * <font face="微软雅黑" size=3>Chinese Collegiate Computing Competition: National Second Prize</font>
 * <font face="微软雅黑" size=3>Social Scholarship from OurPalm (only 5 candidates)</font>
