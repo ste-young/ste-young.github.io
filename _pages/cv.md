@@ -27,17 +27,6 @@ Project experience
    * <font size=3>course design</font>
 
 
-Awards
-======
-* <font face="微软雅黑" size=3>Internet of Things Design Competition: Second Prize in Northwest Region</font>
-* <font face="微软雅黑" size=3>The 9th Shaanxi Province College Students "Internet +" Innovation and Entrepreneurship Competition: Silver award</font>
-* <font face="微软雅黑" size=3>The 13th Higher Mathematics Competition for College Students in Shaanxi Universities: Second Prize</font>
-* <font face="微软雅黑" size=3>Chinese Collegiate Computing Competition: National Second Prize</font>
-* <font face="微软雅黑" size=3>Social Scholarship from OurPalm (only 5 candidates)</font>
-* <font face="微软雅黑" size=3>The 14th Mathematics Competition of Chinese College Students: First Prize of Shaanxi Province</font>
-* <font face="微软雅黑" size=3>The 24th National Collegiate Robotics and Artificial Intelligence Competition: First Prize of Shaanxi Province</font>
-* <font face="微软雅黑" size=3>Outstanding Students & First-class Scholarship</font>
-
 Services
 ======
 * <font size=3>Executive chairman of the youth league committee of the school of telecommunication engineering (2022.09 ~ 2023.06)</font>
