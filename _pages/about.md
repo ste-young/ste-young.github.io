@@ -8,6 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+body {
+  font-family: '微软雅黑', Arial, sans-serif;
+  font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: '微软雅黑', Arial, sans-serif;
+}
+
+/* 添加其他元素的字体样式配置，根据需要进行扩展 */
+</style>
+
 <font face="微软雅黑" size=3>Hello there! Welcome to my homepage! I am Xiao Yang, majoring in telecommunication engineering, and I will be completing my bachelor's degree in June 2024.</font>
 
 [[Curriculum Vitae](http://ste-young.github.io/files/CV.pdf)]
