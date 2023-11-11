@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* 添加其他元素的字体样式配置，根据需要进行扩展 */
+/* 自定义段落样式，设置段落之间的底部外边距 */
+.custom-paragraph {
+  margin-bottom: 15px; /* 你可以根据需要调整这个值 */
+}
 </style>
 
 Hello there! Welcome to my homepage! I am Xiao Yang, majoring in telecommunication engineering, and I will be completing my bachelor's degree in June 2024.
