@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 
 - [Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles](https://arxiv.org/pdf/2308.02603.pdf)
   
-   <font face="Arial" size=3>Ruijin Sun, <u>Xiao Yang</u>, Nan Cheng, Xiucheng Wang, Changle Li</font>
+   Ruijin Sun, <u>Xiao Yang</u>, Nan Cheng, Xiucheng Wang, Changle Li
 
-   <font face="Arial" size=3>IEEE 98th Vehicular Technology Conference (VTC2023-Fall), to appear.</font>
+   IEEE 98th Vehicular Technology Conference (VTC2023-Fall), to appear.
 
