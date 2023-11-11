@@ -10,12 +10,12 @@ redirect_from:
 
 <style>
 body {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Georgia', sans-serif;
   font-size: 3;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Arial', sans-serif;
+  font-family: 'Georgia', sans-serif;
 }
 
 /* 添加其他元素的字体样式配置，根据需要进行扩展 */
