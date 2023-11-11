@@ -11,7 +11,7 @@ google_analytics: G-H3Q417JWD5  # your google analytics
 
 
 locale                   : "en-US"
-title                    : "Xiao Yang"
+title                    : "Xiao Yang         "
 title_separator          : "-"
 name                     : &name "Xiao Yang"
 description              : &description "personal description"
