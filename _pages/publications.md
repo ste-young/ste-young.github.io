@@ -62,7 +62,7 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
 
 <div class="container">
-  <img src="/images/paper/im001.png" alt="tet" class="image-on-left" />
+  <img src="/images/paper/im001.png" alt="tet" class="image-on-left" width=700/>
   <div class="content">
     <p>
       <a href="https://arxiv.org/pdf/2308.02603.pdf" class="emphasize" target="_blank">
