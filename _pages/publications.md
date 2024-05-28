@@ -46,6 +46,7 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng.</p>
   </div>
 </div>
 
+<style>
 .container {
   white-space: normal; /* 允许换行 */
   word-wrap: break-word; /* 允许长单词或URL换行 */
@@ -56,3 +57,4 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng.</p>
 img {
   margin-right: 20px; /* 与文本内容的间隔 */
 }
+</style>
