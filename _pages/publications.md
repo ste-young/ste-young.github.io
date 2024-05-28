@@ -37,10 +37,10 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
 
 <div class="container">
-  <img src="D:\software\github\ste-young.github.io\images\bio-photo-2.jpg" alt="self_photo">
+  <img src="D:\software\github\ste-young.github.io\images\bio-photo-2.jpg" alt="vtc">
   <div class="content">
     <p>[VTC2023-Fall][Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles](https://arxiv.org/pdf/2308.02603.pdf)  
-    
+
 Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.</p>
   </div>
 </div>
