@@ -69,7 +69,7 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
         Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles
       </a>
       <br>
-      Ruijin Sun, <span class="emphasize">Xiao Yang</span>, Nan Cheng.
+      Ruijin Sun, <span class="emphasize">Xiao Yang</span>, Nan Cheng, xxxx.
     </p>
   </div>
 
