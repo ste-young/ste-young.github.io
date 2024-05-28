@@ -48,12 +48,7 @@ img {
 - [VTC2023-Fall][Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles](https://arxiv.org/pdf/2308.02603.pdf)  
 Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
-<div class="container">
-  <img src="D:\software\github\ste-young.github.io\images\site-logo.png" alt="self_photo">
-  <div class="content">
-    <p>THis isii sss</p>
-  </div>
-</div>
+
 
 
 <div class="container">
