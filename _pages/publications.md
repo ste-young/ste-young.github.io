@@ -38,7 +38,7 @@ p {
 }
 
 .image-on-left {
-  width: 400px; /* 图片宽度，根据需要调整 */
+  width: 300px; /* 图片宽度，根据需要调整 */
   height: auto; /* 保持图片宽高比 */
   margin-right: 20px; /* 图片与文字间的间隔 */
 }
