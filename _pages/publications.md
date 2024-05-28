@@ -60,9 +60,9 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
 
 
-</div>
+
 <div class="container">
-  <img src="D:\software\github\ste-young.github.io\images\site-logo.png" alt="Alternative Text" class="image-on-left" />
+  <img src="im001.png" alt="Alternative Text" class="image-on-left" />
   <div class="content">
     <p>
       <a href="https://arxiv.org/pdf/2308.02603.pdf" class="emphasize" target="_blank">
@@ -72,5 +72,4 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
       Ruijin Sun, <span class="emphasize">Xiao Yang</span>, Nan Cheng.
     </p>
   </div>
-</div>
 
