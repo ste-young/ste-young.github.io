@@ -35,15 +35,6 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
   </div>
 </div>
 
-<style>
-.container {
-  display: flex;
-  align-items: flex-start; /* 垂直居上对齐 */
-}
-.content {
-  margin-left: 20px; /* 与图片的间隔 */
-}
-</style>
 
 <div class="container">
   <img src="D:\software\github\ste-young.github.io\images\bio-photo-2.jpg" alt="self_photo">
