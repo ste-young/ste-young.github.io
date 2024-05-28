@@ -45,7 +45,7 @@ img {
 </style>
 
 ### Conference Paper
-- [VTC2023-Fall][Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles](https://arxiv.org/pdf/2308.02603.pdf)  
+[VTC2023-Fall][Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles](https://arxiv.org/pdf/2308.02603.pdf)  
 Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
 
