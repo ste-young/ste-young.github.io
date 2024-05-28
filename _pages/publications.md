@@ -33,9 +33,18 @@ p {
 }
 
 .container {
-  white-space: normal; /* 允许换行 */
-  word-wrap: break-word; /* 允许长单词或URL换行 */
-  overflow-wrap: break-word; /* 同word-wrap */
+  display: flex; /* 启用Flexbox布局 */
+  align-items: center; /* 垂直居中对齐 */
+}
+
+.image-on-left {
+  width: 100px; /* 图片宽度，根据需要调整 */
+  height: auto; /* 保持图片宽高比 */
+  margin-right: 20px; /* 图片与文字间的间隔 */
+}
+
+.content {
+  flex-grow: 1; /* 让文字部分占据剩余空间 */
 }
 
 /* 如果需要，为图片和文本内容设置间隔 */
@@ -51,14 +60,17 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
 
 
+</div>
 <div class="container">
-  <img src="D:\software\github\ste-young.github.io\images\site-logo.png" alt="vtc">
+  <img src="D:\software\github\ste-young.github.io\images\site-logo.png" alt="Alternative Text" class="image-on-left" />
   <div class="content">
     <p>
-  <a href="https://arxiv.org/pdf/2308.02603.pdf" class="emphasize" target="_blank">Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles</a>
-  <br>
-  Ruijin Sun, <span class="emphasize">Xiao Yang</span>, Nan Cheng.
-</p>
+      <a href="https://arxiv.org/pdf/2308.02603.pdf" class="emphasize" target="_blank">
+        Knowledge-Driven Multi-Agent Reinforcement Learning for Computation Offloading in Cybertwin-Enabled Internet of Vehicles
+      </a>
+      <br>
+      Ruijin Sun, <span class="emphasize">Xiao Yang</span>, Nan Cheng.
+    </p>
   </div>
 </div>
 
