@@ -38,7 +38,7 @@ p {
 }
 
 .image-on-left {
-  width: 100px; /* 图片宽度，根据需要调整 */
+  width: 400px; /* 图片宽度，根据需要调整 */
   height: auto; /* 保持图片宽高比 */
   margin-right: 20px; /* 图片与文字间的间隔 */
 }
@@ -62,7 +62,7 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
 
 <div class="container">
-  <img src="/images/paper/im001.png" alt="tet" class="image-on-left" width=700/>
+  <img src="/images/paper/im001.png" alt="tet" class="image-on-left"/>
   <div class="content">
     <p>
       <a href="https://arxiv.org/pdf/2308.02603.pdf" class="emphasize" target="_blank">
