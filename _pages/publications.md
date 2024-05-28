@@ -46,12 +46,13 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng.</p>
   </div>
 </div>
 
-<style>
 .container {
-  display: flex;
-  align-items: flex-start; /* 垂直居上对齐 */
+  white-space: normal; /* 允许换行 */
+  word-wrap: break-word; /* 允许长单词或URL换行 */
+  overflow-wrap: break-word; /* 同word-wrap */
 }
-.content {
-  margin-left: 20px; /* 与图片的间隔 */
+
+/* 如果需要，为图片和文本内容设置间隔 */
+img {
+  margin-right: 20px; /* 与文本内容的间隔 */
 }
-</style>
