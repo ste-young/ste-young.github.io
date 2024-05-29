@@ -51,6 +51,36 @@ p {
 img {
   margin-right: 20px; /* 与文本内容的间隔 */
 }
+
+/* 滚动新闻条样式 */
+.scrolling-news {
+  overflow: hidden; /* 隐藏溢出的内容 */
+  position: relative; /* 相对定位 */
+  height: 150px; /* 设置新闻条的高度 */
+  background-color: #f0f0f0; /* 新闻条背景颜色 */
+  border: 1px solid #ddd; /* 新闻条边框 */
+}
+
+.news-container {
+  position: absolute; /* 绝对定位 */
+  width: 100%; /* 宽度设为100% */
+}
+
+.news-content {
+  width: 100%; /* 内容宽度设为100% */
+  padding: 10px; /* 内容与边框的间隔 */
+  box-sizing: border-box; /* 边框计算在宽度内 */
+}
+
+/* 滚动动画 */
+@keyframes scroll {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-100%); }
+}
+
+.news-content {
+  animation: scroll 10s linear infinite; /* 滚动动画 */
+}
 </style>
 
 ### Conference Paper
@@ -59,4 +89,13 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 
 
 
-
+<div class="scrolling-news">
+  <div class="news-container">
+    <div class="news-content">
+      <p>新闻条目 1 - 这里是第一条新闻的详细内容。</p>
+      <p>新闻条目 2 - 这里是第二条新闻的详细内容。</p>
+      <p>新闻条目 3 - 这里是第三条新闻的详细内容。</p>
+      <!-- 可以继续添加更多的新闻条目 -->
+    </div>
+  </div>
+</div>
