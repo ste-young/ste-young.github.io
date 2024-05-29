@@ -92,6 +92,7 @@ Ruijin Sun, **Xiao Yang**, Nan Cheng, Xiucheng Wang, Changle Li.
 <div class="scrolling-news">
   <div class="news-container">
     <div class="news-content">
+    
       <p>新闻条目 1 - 这里是第一条新闻的详细内容。</p>
       <p>新闻条目 2 - 这里是第二条新闻的详细内容。</p>
       <p>新闻条目 3 - 这里是第三条新闻的详细内容。</p>
