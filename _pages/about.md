@@ -43,11 +43,12 @@ h1, h2, h3, h4, h5, h6 {
 
 Hello there! Welcome to my homepage! I am Xiao Yang. I have graduated from Xidian University with a B.Eng. degree in telecommunication engineering. In September, I will go to the Yanqi Lake Campus of the University of Chinese Academy of Sciences for a one-year course of study.
 
+## News
 <div class="scrolling-news">
 
   <div class="news-content">
 
-    <p>[06/2024] My undergraduate thesis was honored with the "Outstanding Graduate Thesis"</p>
+    <p>[06/2024] My undergraduate thesis was honored with the "Outstanding Graduate Thesis".</p>
 
   
 
